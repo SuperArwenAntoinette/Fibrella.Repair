@@ -1,0 +1,16 @@
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Repair.Core.Tests.pdb
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\nunit.framework.dll
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\nunit.framework.xml
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\obj\Debug\Fibrella.Repair.Core.Tests.csprojResolveAssemblyReference.cache
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\obj\Debug\Fibrella.Repair.Core.Tests.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Repair.Core.Tests.exe
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Core.Data.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Repair.Service.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\EntityFramework.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Core.Data.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Repair.Service.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\EntityFramework.xml
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\obj\Debug\Fibrella.Repair.Core.Tests.exe
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\Fibrella.Repair.Core.Tests.exe.config
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Core.Tests\bin\Debug\EntityFramework.SqlServer.xml

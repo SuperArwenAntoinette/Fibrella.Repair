@@ -1,0 +1,10 @@
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\obj\Debug\Fibrella.Core.Data.csprojResolveAssemblyReference.cache
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\Fibrella.Core.Data.dll.config
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\Fibrella.Core.Data.dll
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\Fibrella.Core.Data.pdb
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\EntityFramework.dll
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\EntityFramework.xml
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\obj\Debug\Fibrella.Core.Data.dll
+c:\Users\eric.velasco\Documents\Visual Studio 2012\Projects\Fibrella.Repair\Fibrella.Core.Data\obj\Debug\Fibrella.Core.Data.pdb

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Repair.Core", "Fibrella.Repair.Console\Fibrella.Repair.Core.csproj", "{C924DEBC-0E92-48C4-9A02-3CF9D21564E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Repair.Core.Tests", "Fibrella.Repair.Core.Tests\Fibrella.Repair.Core.Tests.csproj", "{2D5E4140-85EC-4B8E-B56E-DCB983D29145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Core.Data", "Fibrella.Core.Data\Fibrella.Core.Data.csproj", "{9F6E9510-F4C3-46DD-AFF9-ABB33FBF2847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Repair.Service", "Fibrella.Repair.Service\Fibrella.Repair.Service.csproj", "{3836A2D2-2436-4AB7-BE24-AF349307796E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C924DEBC-0E92-48C4-9A02-3CF9D21564E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C924DEBC-0E92-48C4-9A02-3CF9D21564E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C924DEBC-0E92-48C4-9A02-3CF9D21564E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C924DEBC-0E92-48C4-9A02-3CF9D21564E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5E4140-85EC-4B8E-B56E-DCB983D29145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5E4140-85EC-4B8E-B56E-DCB983D29145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5E4140-85EC-4B8E-B56E-DCB983D29145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5E4140-85EC-4B8E-B56E-DCB983D29145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F6E9510-F4C3-46DD-AFF9-ABB33FBF2847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6E9510-F4C3-46DD-AFF9-ABB33FBF2847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6E9510-F4C3-46DD-AFF9-ABB33FBF2847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6E9510-F4C3-46DD-AFF9-ABB33FBF2847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
