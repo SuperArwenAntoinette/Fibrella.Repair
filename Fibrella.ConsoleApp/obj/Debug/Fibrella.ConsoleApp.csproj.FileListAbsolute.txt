@@ -1,0 +1,16 @@
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.ConsoleApp.exe.config
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.ConsoleApp.exe
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.ConsoleApp.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\obj\Debug\Fibrella.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\obj\Debug\Fibrella.ConsoleApp.exe
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\obj\Debug\Fibrella.ConsoleApp.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Core.Data.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Repair.Core.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Repair.Service.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Core.Data.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Repair.Core.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\Fibrella.Repair.Service.pdb
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml

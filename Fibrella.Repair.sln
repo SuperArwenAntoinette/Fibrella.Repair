@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Core.Data", "Fibre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.Repair.Service", "Fibrella.Repair.Service\Fibrella.Repair.Service.csproj", "{3836A2D2-2436-4AB7-BE24-AF349307796E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibrella.ConsoleApp", "Fibrella.ConsoleApp\Fibrella.ConsoleApp.csproj", "{B2BF7584-6B59-4610-8537-5FF5C48045B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3836A2D2-2436-4AB7-BE24-AF349307796E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BF7584-6B59-4610-8537-5FF5C48045B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BF7584-6B59-4610-8537-5FF5C48045B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BF7584-6B59-4610-8537-5FF5C48045B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BF7584-6B59-4610-8537-5FF5C48045B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

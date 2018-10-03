@@ -10,3 +10,5 @@ C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibr
 C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Console\bin\Debug\Fibrella.Core.Data.pdb
 C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Console\bin\Debug\EntityFramework.xml
 C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Console\bin\Debug\Fibrella.Repair.Service.dll
+C:\Users\eric.velasco\documents\visual studio 2012\Projects\Fibrella.Repair\Fibrella.Repair.Console\bin\Debug\Fibrella.Repair.Service.pdb

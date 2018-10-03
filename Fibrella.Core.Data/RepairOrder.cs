@@ -28,6 +28,8 @@ namespace Fibrella.Core.Data
         public string CustomerContactNo { get; set; }
 
         public bool? IsWarrantyRepair { get; set; }
+
+        public bool? IsDone { get; set; }
     }
 }
 

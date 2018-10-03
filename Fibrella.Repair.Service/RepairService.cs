@@ -14,7 +14,8 @@ namespace Fibrella.Repair.Service
             RepairOrder repair = new RepairOrder();
             using (FibrellaContext context = new FibrellaContext())
             {
-                repair = context.RepairOrders.FirstOrDefault(z => z.SMNE == Convert.ToInt64(searchString));
+                long convertedSmne = Convert.ToInt64(searchString);
+                repair = context.RepairOrders.FirstOrDefault(z => z.SMNE == convertedSmne);
             }
             return repair;
         }

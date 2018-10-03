@@ -65,6 +65,10 @@
       <Project>{9f6e9510-f4c3-46dd-aff9-abb33fbf2847}</Project>
       <Name>Fibrella.Core.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Fibrella.Repair.Service\Fibrella.Repair.Service.csproj">
+      <Project>{3836a2d2-2436-4ab7-be24-af349307796e}</Project>
+      <Name>Fibrella.Repair.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
